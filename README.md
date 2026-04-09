@@ -9,8 +9,7 @@ Desarrollo de una calculadora con operaciones básicas.
 
 ## 🔗 Enlaces
 
-[![youtube](https://img.shields.io/badge/youtube-ff0033?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/watch?v=qkzcjwnueLA&list=PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29&index=2&pp=iAQB0gcJCdkKAYcqIYzv](https://youtu.be/N8Xt5rP_DUo?si=x4r3SjsJiqM0kCFd)https://youtu.be/N8Xt5rP_DUo?si=x4r3SjsJiqM0kCFd)
-
+[![youtube](https://img.shields.io/badge/youtube-ff0033?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=N8Xt5rP_DUo&t=24874s&pp=ygULc2VyZ2llIGNvZGU%3D)
 
 
 ## Conjunto de tecnologías
